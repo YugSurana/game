@@ -1,0 +1,49 @@
+
+=============================
+NEW GAME STARTED
+Board: 5x5
+Mines: 6
+
+Current Board State:
+ .  .  .  .  . 
+ .  .  .  .  . 
+ .  .  .  .  . 
+ .  .  .  .  . 
+ .  .  .  .  . 
+
+Selected Cell: (2,3)
+
+Current Board State:
+ .  .  .  .  . 
+ .  .  1  .  . 
+ .  .  .  .  . 
+ .  .  .  .  . 
+ .  .  .  .  . 
+
+Selected Cell: (2,4)
+
+Current Board State:
+ .  .  .  .  . 
+ .  .  1  1  . 
+ .  .  .  .  . 
+ .  .  .  .  . 
+ .  .  .  .  . 
+
+Selected Cell: (3,5)
+
+Current Board State:
+ .  .  .  .  . 
+ .  .  1  1  . 
+ .  .  .  .  1 
+ .  .  .  .  . 
+ .  .  .  .  . 
+
+Selected Cell: (1,4)
+Mine HIT at (1,4)
+
+--- FINAL BOARD (MINES REVEALED) ---
+ .  .  .  *  * 
+ .  .  .  .  * 
+ .  *  .  .  . 
+ .  .  .  .  . 
+ *  .  *  .  . 
